@@ -1,6 +1,6 @@
 /* ===== BUSINESS NUMBER (WhatsApp + Google Pay + PhonePe) ===== */
 const WHATSAPP_NUMBER = "919666338998";
-const UPI_ID = "mohannunna23@ybl";  // YOUR receiving UPI ID: copy it exactly from PhonePe or Google Pay (Profile > UPI IDs)
+const UPI_ID = "9666338998-2@ybl";  // YOUR receiving UPI ID: copy it exactly from PhonePe or Google Pay (Profile > UPI IDs)
 /* ============================================================ */
 const UPI_NAME = "Nunna's Pickles";
 /* ================================ */
